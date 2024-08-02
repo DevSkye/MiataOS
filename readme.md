@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/DevSkye/MiataOS"><img src="https://photos.classiccars.com/cc-temp/listing/120/4422/15831331-1990-mazda-miata-std.jpg" alt="MiataOS" width="200"></a>
+  <a href="https://github.com/DevSkye/MiataOS"><img src="https://i.ibb.co/9yrH9tv/miata.jpg" alt="MiataOS" width="400"></a>
   <br>
   MiataOS
   <br>
