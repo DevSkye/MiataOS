@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/DevSkye/MiataOS"><img src="https://i.ibb.co/9yrH9tv/miata.jpg" alt="MiataOS" width="400"></a>
+  <a href="https://github.com/DevSkye/MiataOS"><img src="https://github.com/user-attachments/assets/09c8082a-e15b-4f56-b3f3-2db031420088" alt="MiataOS"></a>
   <br>
   MiataOS
   <br>
