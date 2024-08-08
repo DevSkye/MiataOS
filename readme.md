@@ -1,19 +1,19 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/DevSkye/MiataOS"><img src="https://github.com/user-attachments/assets/09c8082a-e15b-4f56-b3f3-2db031420088" alt="MiataOS"></a>
+  <a href="https://github.com/YourUsername/SmartDash"><img src="https://github.com/user-attachments/assets/09c8082a-e15b-4f56-b3f3-2db031420088" alt="SmartDash"></a>
   <br>
-  MiataOS
+  SmartDash
   <br>
 </h1>
 
-<h4 align="center">A project to make your Miata as modern as any new car.</h4>
+<h4 align="center">A project to modernize any older car with a customizable infotainment system.</h4>
 
 <p align="center">
-  <a href="https://badge.fury.io/js/miataos">
-    <img src="https://badge.fury.io/js/miataos.svg" alt="Gitter">
+  <a href="https://badge.fury.io/js/smartdash">
+    <img src="https://badge.fury.io/js/smartdash.svg" alt="Gitter">
   </a>
-  <a href="https://gitter.im/yourusername/MiataOS">
-    <img src="https://badges.gitter.im/yourusername/MiataOS.svg">
+  <a href="https://gitter.im/yourusername/SmartDash">
+    <img src="https://badges.gitter.im/yourusername/SmartDash.svg">
   </a>
   <a href="https://saythanks.io/to/youremail@example.com">
     <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
@@ -37,20 +37,20 @@
 
 ## Key Features
 
-- **Modernize Your Miata** - Transform your Miata with the latest technological features.
-- **Open Source** - All the code available in this repository is open source.
-- **Comprehensive Guide** - We are developing a detailed guide to help you modernize your Miata.
+- **Customizable Infotainment System** - Tailor your car’s infotainment to suit your needs.
+- **Based on Unity Engine** - Leverage the power of Unity for unlimited customization options.
+- **Wide Compatibility** - Compatible with any vehicle, with options to import or create 3D models.
 
 ## How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) installed on your computer. From your command line:
+To clone and run SmartDash, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) installed on your computer. From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/yourusername/MiataOS
+$ git clone https://github.com/yourusername/SmartDash
 
 # Go into the repository
-$ cd MiataOS
+$ cd SmartDash
 
 # Install dependencies
 $ npm install
@@ -64,23 +64,23 @@ $ npm start
 
 ## Download
 
-You can [download](https://github.com/DevSkye/MiataOS/releases) the latest version of MiataOS for your platform.
+You can [download](https://github.com/YourUsername/SmartDash/releases) the latest version of SmartDash for your platform.
 
 ## Guide
 
-We are actively working on a comprehensive guide to assist you in modernizing your Miata. Stay tuned for updates!
+We are actively working on a comprehensive guide to assist you in setting up SmartDash in your vehicle. Stay tuned for updates!
 
 ## Credits
 
 This project uses the following open source packages:
 
-- [Electron](http://electron.atom.io/)
+- [Unity](https://unity.com/)
 - [Node.js](https://nodejs.org/)
 - [Other packages...]
 
 ## Related
 
-- [SmartMiata](https://github.com/Mauznemo/SmartMiata) - My initial inspiration
+- [SmartifyOS](https://github.com/Mauznemo/SmartifyOS) - The project that inspired SmartDash
 
 ## Support
 
@@ -96,7 +96,7 @@ This project uses the following open source packages:
 
 ## You may also like...
 
-- [SmartMiata](https://github.com/Mauznemo/SmartMiata) - My initial inspiration
+- [SmartifyOS / SmartMiata](https://github.com/Mauznemo/SmartifyOS) - The inspiration behind SmartDash
 
 ## License
 
@@ -105,5 +105,5 @@ MIT
 ---
 
 > [yourwebsite.com](https://www.labs.starski.eu) &nbsp;&middot;&nbsp;
-> GitHub [@yourusername](https://github.com/DevSkye) &nbsp;&middot;&nbsp;
-> Twitter [@yourusername](https://twitter.com/DevSkye)
+> GitHub [@yourusername](https://github.com/YourUsername) &nbsp;&middot;&nbsp;
+> Twitter [@yourusername](https://twitter.com/YourUsername)
