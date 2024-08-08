@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">A project to modernize any older car with a customizable infotainment system.</h4>
+<h4 align="center">A project to modernize any older car with a sleek, customizable infotainment system.</h4>
 
 <p align="center">
   <a href="https://badge.fury.io/js/smartdash">
@@ -37,8 +37,9 @@
 
 ## Key Features
 
-- **Customizable Infotainment System** - Tailor your car’s infotainment to suit your needs.
-- **Based on Unity Engine** - Leverage the power of Unity for unlimited customization options.
+- **Clean, Modern UI** - Experience a sleek and intuitive user interface designed with simplicity and ease of use in mind.
+- **New UIElements System** - Built using Unity's latest UIElements system, offering powerful and flexible UI customization.
+- **Fully Customizable** - Tailor every aspect of the infotainment system to your liking with easy-to-use tools.
 - **Wide Compatibility** - Compatible with any vehicle, with options to import or create 3D models.
 
 ## How To Use
@@ -80,7 +81,7 @@ This project uses the following open source packages:
 
 ## Related
 
-- [SmartifyOS](https://github.com/Mauznemo/SmartifyOS) - The project that inspired SmartDash
+- [SmartifyOS / SmartMiata](https://github.com/Mauznemo/SmartifyOS) - The project that inspired SmartDash
 
 ## Support
 
